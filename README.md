@@ -1,2 +1,2 @@
-# CIMS
-Customer Inventory  Management System
+# CIMS - login
+Customer Inventory  Management System login function
